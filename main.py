@@ -1,1 +1,1 @@
-print("Not a duck anymore")
+print("Hello world duck")
